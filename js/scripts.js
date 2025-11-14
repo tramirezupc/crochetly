@@ -83,9 +83,9 @@
         
         // Lista de productos (PERSONALIZABLE)
         const productosDisponibles = [
-            { codigo: 'PROD-001', nombre: 'Producto Ejemplo 1', precio: 29.99 },
-            { codigo: 'PROD-002', nombre: 'Producto Ejemplo 2', precio: 39.99 },
-            { codigo: 'PROD-003', nombre: 'Producto Ejemplo 3', precio: 49.99 },
+            { codigo: 'PROD-001', nombre: 'falda', precio: 29.99 },
+            { codigo: 'PROD-002', nombre: 'blusa', precio: 39.99 },
+            { codigo: 'PROD-003', nombre: 'ramo', precio: 49.99 },
             { codigo: 'PROD-004', nombre: 'Producto Ejemplo 4', precio: 59.99 },
             { codigo: 'PROD-005', nombre: 'Producto Ejemplo 5', precio: 69.99 },
             { codigo: 'PROD-006', nombre: 'Producto Ejemplo 6', precio: 79.99 }
